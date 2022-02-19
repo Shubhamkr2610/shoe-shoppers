@@ -1,0 +1,16 @@
+:root {
+    --ecomm-color-primary: #0000b7;
+    --ecomm-color-secondary:#ffffff;
+    --ecomm-color-border:#000000;
+    --ecomm-color-navbar:rgb(247 251 255);
+    
+    
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
