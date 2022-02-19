@@ -3,6 +3,8 @@
     --ecomm-color-secondary:#ffffff;
     --ecomm-color-border:#000000;
     --ecomm-color-navbar:#f7fbff;
+    --ecomm-color-form:#f8f4f4;
+
 }
 
 *{
@@ -11,4 +13,7 @@
     list-style: none;
     text-decoration: none;
     box-sizing: border-box;
+}
+a{
+    color: var( --ecomm-color-border);
 }
