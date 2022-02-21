@@ -4,9 +4,8 @@
 
 .horizontal-button{
     width: 90%;
-    background-color: var(--ecomm-color-form);
-    border: 2px solid var( --ecomm-color-primary);
-    color: var( --ecomm-color-primary);
+    background-color: var(--danger-color);
+    color: var(--button-secondary-color);
 }
 .cart-page-container{
     display: flex;
@@ -54,7 +53,5 @@
     font-weight: bold;
 }
 .horizontal-button:hover{
-    background-color: var( --ecomm-color-primary);
-    color: var( --ecomm-color-form);
     font-weight: bold;
 }
